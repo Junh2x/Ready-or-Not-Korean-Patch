@@ -29,8 +29,8 @@ UI 일부는 익명 유저들의 번역 도움이 있었습니다. 다시 한번
 
 ## 설치 방법
 
-1. 우측 링크에서 최신 버전을 다운로드합니다. [Release Link].
-2. 게임이 설치된 경로의 Paks 폴더에 붙여넣기합니다.
+1. 릴리즈된 최신 버전 **RoN-korean-patch.zip**을 다운로드합니다. [다운로드](https://github.com/Junh2x/Ready-or-Not-Korean-Patch/releases/tag/v1.0)
+2. 압축 해제 후, pak 파일을 게임이 설치된 경로의 Paks 폴더에 붙여넣기합니다.
    * Ready Or Not\ReadyOrNot\Content\Paks
 3. **Ready or Not**을 실행합니다.
 4. **옵션 > 언어**를 **영어**로 설정합니다.
