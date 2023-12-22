@@ -17,6 +17,11 @@ UI 일부는 익명 유저들의 번역 도움이 있었습니다. 다시 한번
 - 수동 작업이 필요한 경우가 많아 일반적인 게임에 비해서 현지화 작업 시간이 더 소요됩니다.
 - 오역, 오타, 오류 등을 발견하실 경우, 제보해주세요!
 
+## 개선사항 제보
+- 아래 링크에서 오역, 오류, 기타 개선사항 등을 제보해주세요.
+  * https://docs.google.com/forms/d/e/1FAIpQLScaUi2sWcu3M973bb7nG7NqEid35ohaTijuy1Ly6Sx3946xEg/viewform?usp=sf_link
+  
+
 ## 패치 노트
 
 ### Version 1.0 (2023-12-22)
