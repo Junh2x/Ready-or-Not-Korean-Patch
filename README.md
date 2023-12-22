@@ -33,3 +33,4 @@ UI 일부는 익명 유저들의 번역 도움이 있었습니다. 다시 한번
 2. 게임이 설치된 경로의 Paks 폴더에 붙여넣기합니다.
    * Ready Or Not\ReadyOrNot\Content\Paks
 3. **Ready or Not**을 실행합니다.
+4. **옵션 > 언어**를 **영어**로 설정합니다.
