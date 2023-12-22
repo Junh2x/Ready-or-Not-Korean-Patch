@@ -27,9 +27,13 @@ UI 일부는 익명 유저들의 번역 도움이 있었습니다. 다시 한번
 ### Version 1.0 (2023-12-22)
 - 95% 이상 초벌 번역 완료
 
+### Version 1.1 (2023-12-22)
+- 게임 플레이에 영향을 주는 오역 수정
+- 피드백 일부 반영
+
 ## 설치 방법
 
-1. 릴리즈된 최신 버전 **RoN-korean-patch.zip**을 다운로드합니다. [다운로드](https://github.com/Junh2x/Ready-or-Not-Korean-Patch/releases/tag/v1.0)
+1. 릴리즈된 최신 버전 **RoN-korean-patch.zip**을 다운로드합니다. [다운로드](https://github.com/Junh2x/Ready-or-Not-Korean-Patch/releases)
 2. 압축 해제 후, pak 파일을 게임이 설치된 경로의 Paks 폴더에 붙여넣기합니다.
    * Ready Or Not\ReadyOrNot\Content\Paks
 3. **Ready or Not**을 실행합니다.
