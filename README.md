@@ -18,34 +18,10 @@ UI 일부는 익명 유저들의 번역 도움이 있었습니다. 다시 한번
 - AI 번역 서비스를 이용하였으므로, 오역이 있을 수 있습니다.
 - 아직 부자연스러운 부분이 많으므로 지속적으로 업데이트 할 예정입니다.
 - 수동 작업이 필요한 경우가 많아 일반적인 게임에 비해서 현지화 작업 시간이 더 소요됩니다.
-- 오역, 오타, 오류 등을 발견하실 경우, 제보해주세요!
+- [패치 노트](https://github.com/Junh2x/Ready-or-Not-Korean-Patch/releases)
 
 ## 개선사항 제보
-- 아래 링크에서 오역, 오류, 기타 개선사항 등을 제보해주세요.
-  * https://docs.google.com/forms/d/e/1FAIpQLScaUi2sWcu3M973bb7nG7NqEid35ohaTijuy1Ly6Sx3946xEg/viewform?usp=sf_link
-  
-
-## 패치 노트
-
-### Version 1.0 (2023-12-22)
-- 95% 이상 초벌 번역 완료
-
-### Version 1.1 (2023-12-22)
-- 게임 플레이에 영향을 주는 오역 수정
-- 피드백 일부 반영
-
-### Version 1.2 (2023-12-23)
-- 오역 및 번역 누락 수정
-- 패치 관련 버그 수정
-- 일부 피드백 반영
-- 자막 한글패치 추가 (VO.zip)<br>
-  자막 파일(VO.zip)은 **이미 적용하신 경우 업데이트 하지 않으셔도 됩니다.**
-
-### Version 1.3 (2023-12-23)
-- 오역 및 버그 수정
-- 일부 추가 번역 적용
-- 일부 피드백 반영
-- 타 모드와 파일명이 겹치는 문제 수정
+- 오역, 오류, 기타 개선사항 등을 [제보](https://docs.google.com/forms/d/e/1FAIpQLScaUi2sWcu3M973bb7nG7NqEid35ohaTijuy1Ly6Sx3946xEg/viewform?usp=sf_link)해주세요.
 
 ## 설치 방법
 
