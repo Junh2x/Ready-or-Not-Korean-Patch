@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Ready%20or%20Not&fontSize=70&fontColor=e94560&fontAlignY=35&desc=Unofficial%20Korean%20Patch%20%F0%9F%87%B0%F0%9F%87%B7&descSize=22&descAlignY=55&animation=fadeIn)
 <br>
-[![Total Downloads](https://img.shields.io/github/downloads/Junh2x/Ready-or-Not-Korean-Patch/total?style=for-the-badge&logo=github&label=Total%20Downloads&labelColor=111827&color=2563eb)](https://github.com/Junh2x/Ready-or-Not-Korean-Patch/releases)
+[![Total Downloads](https://img.shields.io/github/downloads/Junh2x/Ready-or-Not-Korean-Patch/total?style=for-the-badge&logo=github&label=Total%20Downloads&labelColor=111827&color=2563eb)](https://tooomm.github.io/github-release-stats/?username=Junh2x&repository=Ready-or-Not-Korean-Patch)
 <br>
 <br>
 
